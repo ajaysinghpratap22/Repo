@@ -1,10 +1,1 @@
- Volume in drive C is SOE
- Volume Serial Number is 4415-8BB5
-
- Directory of C:\Users\asingh727\Desktop\Newfolder
-
-07/24/2021  08:56 PM    <DIR>          .
-07/24/2021  08:56 PM    <DIR>          ..
-07/24/2021  08:56 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  53,389,180,928 bytes free
+Hello new txt added to this file.
